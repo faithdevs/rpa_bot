@@ -1,0 +1,14 @@
+﻿{
+  "Id": "QGpiaGpybk6IOHWVuYxukw",
+  "Reference": "cWgatnUeTUWMEFGiXb9XpQ/QGpiaGpybk6IOHWVuYxukw",
+  "ParentRef": "cWgatnUeTUWMEFGiXb9XpQ/btXF3Ux41E2CZOLErQGUJg",
+  "Name": "https://www.uipath.com",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-06-20T14:59:03.2202836Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-20T14:59:03.2202836Z"
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "-RBm4MCMjki2anR-TAt6ZQ",
+  "Reference": "HfXFSp9eXEe0B_YwtyklqQ/-RBm4MCMjki2anR-TAt6ZQ",
+  "ParentRef": "HfXFSp9eXEe0B_YwtyklqQ/3BFNiEfzck-0SAIYShlFKA",
+  "Name": "Telegram (3296449)",
+  "Type": "Screen",
+  "Created": "2022-07-15T18:36:21.5163189Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-15T18:36:21.5163189Z"
+}

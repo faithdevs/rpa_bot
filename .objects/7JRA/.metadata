@@ -1,0 +1,12 @@
+﻿{
+  "Id": "7JRA0HtJ-0ubpdJkeO0EtA",
+  "Reference": "cWgatnUeTUWMEFGiXb9XpQ/7JRA0HtJ-0ubpdJkeO0EtA",
+  "Name": "Chrome: Automation Platform - Leading RPA Company | UiPath",
+  "Type": "App",
+  "Created": "2022-06-20T14:59:29.3748398Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-20T14:59:29.3748398Z"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Id": "rX2cYuk1AUGBNQjKVvn3rA",
+  "Reference": "HfXFSp9eXEe0B_YwtyklqQ/rX2cYuk1AUGBNQjKVvn3rA",
+  "Name": "Telegram (3296449)",
+  "Type": "App",
+  "Created": "2022-07-15T18:36:21.2474714Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-15T18:36:21.2474714Z"
+}

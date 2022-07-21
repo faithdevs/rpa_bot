@@ -1,0 +1,14 @@
+﻿{
+  "Id": "AMd6bUEE7kWQkZxjEY-JRQ",
+  "Reference": "cWgatnUeTUWMEFGiXb9XpQ/AMd6bUEE7kWQkZxjEY-JRQ",
+  "ParentRef": "cWgatnUeTUWMEFGiXb9XpQ/uZ2Zgzlmp0G3eY7PAGclNw",
+  "Name": "Himark",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-06-20T15:37:13.4548653Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-20T15:37:13.4548653Z"
+}

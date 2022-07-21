@@ -1,0 +1,12 @@
+﻿{
+  "Id": "sxRDxgQ6gEWb1DgMRDk2hQ",
+  "Reference": "HfXFSp9eXEe0B_YwtyklqQ/sxRDxgQ6gEWb1DgMRDk2hQ",
+  "Name": "Chrome: what is the time right now - Yahoo Search Results",
+  "Type": "App",
+  "Created": "2022-07-15T12:44:07.2179224Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-15T12:44:07.2179224Z"
+}

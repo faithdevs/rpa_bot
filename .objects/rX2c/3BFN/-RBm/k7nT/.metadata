@@ -1,0 +1,14 @@
+﻿{
+  "Id": "k7nTpXqDg0m_iGCgYlpZLQ",
+  "Reference": "HfXFSp9eXEe0B_YwtyklqQ/k7nTpXqDg0m_iGCgYlpZLQ",
+  "ParentRef": "HfXFSp9eXEe0B_YwtyklqQ/-RBm4MCMjki2anR-TAt6ZQ",
+  "Name": "telegram.exe Telegram",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-07-15T18:36:34.5621342Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-15T18:36:34.5621342Z"
+}

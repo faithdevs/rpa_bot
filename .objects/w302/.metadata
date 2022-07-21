@@ -1,0 +1,12 @@
+﻿{
+  "Id": "w302aooa20C-09Uy1kQEMg",
+  "Reference": "cWgatnUeTUWMEFGiXb9XpQ/w302aooa20C-09Uy1kQEMg",
+  "Name": "Chrome: UiPath",
+  "Type": "App",
+  "Created": "2022-06-20T14:59:59.0382236Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-20T14:59:59.0382236Z"
+}

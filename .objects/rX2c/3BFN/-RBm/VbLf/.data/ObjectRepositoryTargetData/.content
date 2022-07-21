@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="i_xMY_wuCE-bBfRtL4kCjg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="765, 367, 22, 28" ElementType="InputBox" FriendlyName="'21'" FullSelectorArgument="&lt;ctrl idx='4' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='' role='editable text' /&gt;" Guid="9bcb4f71-4551-4f9c-9a99-4310f502828e" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABoAAAAgCAYAAAAMq2gFAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADaSURBVEhL7ZM/CoMwFId7C+fOniObm0fo6JTFcxSEepAg5A6uxptk/jWpEWp9pY80WCgZviF5D768PzkV5xJHkEXRZFE0vxUJ2UMZC2sXpqGF2OXVaIYZ1vREbA8hqnEdNJrq6eylTrbJcXeTmR2fREsur3VSb14uOg3V1SiqniEqH5WzRKJzLdpUFGCKPAxRC+XmpCQRSycKs/BtouJpRF7ihk21bOV7UZC8q2SFJVq+ASFiSjxMEb3efpXDR31ltxDpliEdWRRNFkWTRdH8oehyG3EEB4lG3AHaUCeCGaSnAgAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='telegram.exe' cls='Qt*QWindowIcon' title='Telegram (3034623)' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="58fc9dd307a56e210d1928a6359099db.png" xmlns="">0YEwvfwzGHEy652RIvQ1xoA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

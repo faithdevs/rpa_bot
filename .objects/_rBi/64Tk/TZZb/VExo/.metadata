@@ -1,0 +1,14 @@
+﻿{
+  "Id": "VExoaNWZTE-KXB23tiCG8Q",
+  "Reference": "cWgatnUeTUWMEFGiXb9XpQ/VExoaNWZTE-KXB23tiCG8Q",
+  "ParentRef": "cWgatnUeTUWMEFGiXb9XpQ/TZZbBxnu6E-c_bJOnJrbVw",
+  "Name": "button Google Chrome",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-06-20T15:33:39.3767828Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-20T15:33:39.3767828Z"
+}

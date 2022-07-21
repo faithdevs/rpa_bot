@@ -1,0 +1,13 @@
+﻿{
+  "Id": "5Dt-wRBW2UiqWyh6h9fUSA",
+  "Reference": "cWgatnUeTUWMEFGiXb9XpQ/5Dt-wRBW2UiqWyh6h9fUSA",
+  "ParentRef": "cWgatnUeTUWMEFGiXb9XpQ/qhxgPB01N02vwtO5AH6c5w",
+  "Name": "Chrome: UiPath",
+  "Type": "Screen",
+  "Created": "2022-06-20T14:59:59.6200971Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-20T14:59:59.6200971Z"
+}

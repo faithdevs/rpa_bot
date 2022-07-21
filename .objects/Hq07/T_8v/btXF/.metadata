@@ -1,0 +1,13 @@
+﻿{
+  "Id": "btXF3Ux41E2CZOLErQGUJg",
+  "Reference": "cWgatnUeTUWMEFGiXb9XpQ/btXF3Ux41E2CZOLErQGUJg",
+  "ParentRef": "cWgatnUeTUWMEFGiXb9XpQ/T_8v_NRLd0inhE0DAxxyjQ",
+  "Name": "Automation Platform - Leading RPA Company | UiPath - Google Chrome",
+  "Type": "Screen",
+  "Created": "2022-06-20T14:58:43.6697364Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-20T14:58:43.6697364Z"
+}

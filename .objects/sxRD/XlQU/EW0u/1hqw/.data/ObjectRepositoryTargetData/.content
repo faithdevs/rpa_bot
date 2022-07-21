@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="35RQ6817sUOEy421rAEYjg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://search.yahoo.com/search?fr=mcafee&amp;type=E210US91082G0&amp;p=what+is+the+time+right+now" DesignTimeRectangle="308, 375, 24, 36" FriendlyName="'chrome.exe what'" Guid="a58927ab-a87d-4f3e-87b2-65c4ed89c2e0" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABgAAAAkCAYAAACTz/ouAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAENSURBVEhLY/hPYzBqAUEwiCz48fj/mdUT/tcEm/6fdBoqRgTAb8GfT/9vH17zf1KqzX8jJY3/slBMsQUf7xz8v7w27b+jDsJQZEyZBac7MQw0skr7X5rqAudTxwLjiP81fWv+n3n8Ayz8anUaeRZAtCOBB+f/773z+v+PP1A+FJBtwRUogxAg1YJXO6v/RwDjkOEMmktxAdIseP1/fSJELcP651AxAoA0C378P9qgT0sLgACUh04fp6EFUDBqAUFAewvOQBmEANkWPIIyCAGyLcAoi3AAsi2A0gTB4LMAlpOhXIKANAuQyiKoCEFAmgVIpSlUhCAgNYjg9QGUTzMwagFBMGoBQUBjC/7/BwDmKZgzlFmAZAAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='chrome.exe' title='what is the time right now - Yahoo Search Results' /&gt;" SearchSteps="Image" TargetType="ImageBased" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="081eaf246a000ea324b900cf3016d546.png" xmlns="">0XSvkgeqWdE-cb0sie2I6Lg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
